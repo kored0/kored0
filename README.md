@@ -46,4 +46,8 @@
 
 ---
 
+## 📩 **Contacts**
 
+* 📧 Email: [your_email@example.com](mailto:your_email@example.com)
+* 📱 Telegram: @your_telegram
+* 📸 Instagram: @your_instagram
