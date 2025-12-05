@@ -48,6 +48,6 @@
 
 ## 📩 **Contacts**
 
-* 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-* 📱 Telegram: @your_telegram
-* 📸 Instagram: @your_instagram
+* 📧 Email: [dreamcore3005@gmail.com](mailto:dreamcore3005@gmail.com)
+* 📱 Telegram: @exortewq
+* 📸 Instagram: @kored_1
