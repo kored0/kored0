@@ -20,13 +20,21 @@
 
 ---
 
+## 🧩 Learning Directions
+
+* 🖥️ **Backend Development** (Python, FastAPI, PostgreSQL, Docker)
+* 🤖 **Machine Learning (ML)** – basics of algorithms, math, and Python for data analysis
+
+---
+
 ## 🚀 **About Me**
 
-* 💻 Учусь backend‑разработке
-* 🤖 Пишу Telegram‑ботов на Python + Aiogram
-* 🗄️ Работаю с PostgreSQL
-* 🐧 Использую Linux, Git, Docker
-* 🚀 Развиваюсь в направлении Full‑stack / Python‑Backend
+* 💻 Learning and focusing on **backend development**
+* 🤖 Building **Telegram bots** using Python & Aiogram
+* 🗄️ Experienced with **PostgreSQL**
+* 🐧 Working with **Linux**, **Git**, **Docker**
+* 🚀 Growing towards **Full‑Stack** and **Machine Learning**
+* 🧩 Practicing algorithmic thinking on **LeetCode**
 
 ---
 
@@ -38,6 +46,4 @@
 
 ---
 
-## 📩 **Contacts**
 
-Если хочешь — добавлю сюда твои контакты (Telegram, email).
